@@ -1,0 +1,1 @@
+ This project is to demonstrates the implementation of Feign Client, Eureka Server, and API Gateway in a microservices architecture.
